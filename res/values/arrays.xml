@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="years">
+        <item>2012</item>
+        <item>2011</item>
+    </string-array>
+</resources>

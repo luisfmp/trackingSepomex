@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">trackingSepomex</string>
+    <string name="menu_settings">Opciones</string>
+    <string name="tracking_number">Numero de rastreo</string>
+    <string name="tracking_year">Año</string>
+    <string name="send_button">Rastrear</string>
+    <string name="title_activity_main_tracker">Tracking SEPOMEX</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_obtain_tracking">Rastreo</string>
+
+</resources>
